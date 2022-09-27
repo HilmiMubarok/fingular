@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fingular": {
+      "hosting": {
+        "fingular": [
+          "fingular"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fingular"
+  }
+}
